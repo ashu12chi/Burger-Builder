@@ -39,10 +39,10 @@ Or,
 
 |   |   |   |
 |---|---|---|
-|Front ![Front](https://github.com/ashu12chi/Burger-Builder/blob/master/screenshots/front.png)|Authenticate ![Authenticate](https://github.com/ashu12chi/Burger-Builder/blob/master/screenshots/authenticate.png)|Summary ![Summary](https://github.com/ashu12chi/Burger-Builder/blob/master/screenshots/summary.png)|
-|Contact ![Contact](https://github.com/ashu12chi/Burger-Builder/blob/master/screenshots/contact.png)|Orders ![Orders](https://github.com/ashu12chi/Burger-Builder/blob/master/screenshots/orders.png)|Sidedrawer ![Sidedrawer](https://github.com/ashu12chi/Burger-Builder/blob/master/screenshots/sidedraer-login.png)|
+|Front ![Front](./screenshots/front.png)|Authenticate ![Authenticate](./screenshots/authenticate.png)|Summary ![Summary](./screenshots/summary.png)|
+|Contact ![Contact](./screenshots/contact.png)|Orders ![Orders](./screenshots/orders.png)|Sidedrawer ![Sidedrawer](./screenshots/sidedraer-login.png)|
 
-Front ![Front](https://github.com/ashu12chi/Burger-Builder/blob/master/screenshots/front-pc.png)
-Summary ![Summary](https://github.com/ashu12chi/Burger-Builder/blob/master/screenshots/summary-pc.png)
-Contact ![Contact](https://github.com/ashu12chi/Burger-Builder/blob/master/screenshots/contact-pc.png)
-Orders ![Orders](https://github.com/ashu12chi/Burger-Builder/blob/master/screenshots/orders-pc.png)
+Front ![Front](./screenshots/front-pc.png)
+Summary ![Summary](./screenshots/summary-pc.png)
+Contact ![Contact](./screenshots/contact-pc.png)
+Orders ![Orders](./screenshots/orders-pc.png)

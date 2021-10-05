@@ -12,7 +12,7 @@ A simple burger builder application for learning React.js
 ## Features
 
 1. At time of order, preview of built burger is shown.
-2. Users' login details is saved in local storgae for an hour so refreshing page doesn't matter.
+2. Users' login details are saved in local storage for an hour so refreshing page doesn't matter.
 3. Full information of past orders is shown.
 4. Mobile variant of the site functions properly.
 
